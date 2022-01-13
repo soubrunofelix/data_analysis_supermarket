@@ -4,8 +4,7 @@
 
 <br>
 
-## Supermarket's behaviour in the time of Covid-19
-using data analysis
+## Supermarket's behaviour in the time of Covid-19 ##
 
 <br>
 
