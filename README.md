@@ -1,5 +1,7 @@
 <br>
+
 *December 2021*
+
 <br>
 
 ## Supermarket's behaviour in the time of Covid-19
