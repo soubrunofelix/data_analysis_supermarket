@@ -17,7 +17,6 @@ XXXXXXXXX IMAGE TITLE XXXXXXXXX
 <br>
 
 ### Project Description
-<br>
 
 Have you ever wondered how the ongoing Covid-19 pandemic has been affecting the supermarket business around the world?
 <br>
