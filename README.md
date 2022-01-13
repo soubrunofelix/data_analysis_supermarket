@@ -1,11 +1,8 @@
-
+<br>
+*December 2021*
 <br>
 
-December 2021
-
-<br>
-
-### Supermarket's behavior in the time of Covid-19
+## Supermarket's behaviour in the time of Covid-19
 using data analysis
 
 <br>
