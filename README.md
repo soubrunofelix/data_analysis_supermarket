@@ -4,7 +4,7 @@
 
 <br>
 
-## Supermarket's behaviour in the time of Covid-19 ##
+## Supermarket's behaviour in the time of Covid-19 pandemic ##
 
 <br>
 
@@ -15,7 +15,6 @@ XXXXXXXXX IMAGE TITLE XXXXXXXXX
 <br>
 
 ## Project Description
-
 
 Have you ever wondered how the ongoing Covid-19 pandemic has been affecting the supermarket business around the world?
 <br>
@@ -30,7 +29,6 @@ So, grab a trolley and come with me through the aisles of this supermarket.
 <br>
 
 ## Project Main Objectives
-
 
 - Gathering and Cleaning data in order to devolop a modern **Business Intelligence Strategy** for the supermarket:
 - Discovering **consumers patterns** over the scenarios;
