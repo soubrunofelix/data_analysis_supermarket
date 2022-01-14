@@ -24,7 +24,7 @@ That's why I decided to investigate this dark side of the force (*if you know wh
 <br>
 Let's dive into the project, the analysis was done using data from a supermarket based in São Paulo/Brazil with a database containing information on 63 million sales record, I evaluated the amount of sales from 2019 to 2021 Looking at Food sales trend, Consumer and Prices behaviour over the following pandemic scenario: Before Covid-19; During Covid-19; After Vaccine period.
 <br>
-So, grab a trolley and come with me through the aisles of this supermarket.
+So, grab a trolley 🛒 and come with me through the aisles of this supermarket.
 
 <br>
 
@@ -37,7 +37,11 @@ So, grab a trolley and come with me through the aisles of this supermarket.
 - Having knowledge of **revenue status**;
 
 <br>
+![Story 2](https://user-images.githubusercontent.com/59744673/149568020-063a84d4-addc-4ffe-b0f6-4bf0cb2f5aae.png)
+<br>
 
+<br>
+![Story 3](https://user-images.githubusercontent.com/59744673/149568168-bc76d675-8c21-4adb-9e77-43f35d4cb65e.png)
 <br>
 
 ## Diving into the Analysis
@@ -52,6 +56,10 @@ You must have seen at least one piece of news about **out-of-stock** products on
 And this data is telling us what kind of products the traditional brazilian Family considers to be **fundamental** for its survival in times of a global pandemic, so let’s take a deeper look into this list of foods that are musts at brazilians’ table:
 <br>
 	>>> Rice and beans, both keep similar sales behaviour over the years.
+<br>	
+![Story 4](https://user-images.githubusercontent.com/59744673/149568317-c6fa38be-cfc9-4d18-a56f-1dd7aca9f1d1.png)
+<br>
+
 <br>
 You might be asking yourself: why are these two considered essentials?
 <br>
@@ -59,4 +67,14 @@ When we speak about our clients stocking food, we view the peak and record of sa
 <br>
 Even though the prices of these foods are on the rise after the ‘post-vaccine’ period, the demand for them is still high. We can tell that these are products of need from the eyes of the consumers.
 <br>
+CHECK IT OUT ON **COFFEE & SUGAR** SALES PATTERN
+<br>
+![Story 4 1](https://user-images.githubusercontent.com/59744673/149568649-306c5ce3-94a8-40b3-83b1-3f84cb29f67d.png)
+<br>
+CHECK IT OUT ON **FRUITS** SALES PATTERN
+<br>
+![Story 5](https://user-images.githubusercontent.com/59744673/149568755-de158e47-0885-4f8a-9ec0-8424653f963c.png)
+<br>
+
+
 
