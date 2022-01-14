@@ -42,11 +42,11 @@ So, grab a trolley 🛒 and come with me through the aisles of this supermarket.
 
 <br>
 
-ALSO
+also
 
 <br>
 
-![Story 3](https://user-images.githubusercontent.com/59744673/149568168-bc76d675-8c21-4adb-9e77-43f35d4cb65e.png)
+![Story 3](https://user-images.githubusercontent.com/59744673/149570608-d0f575d7-f2f8-451a-828d-3cc6b68567ce.png)
 
 <br>
 
@@ -79,7 +79,9 @@ Even though the prices of these foods are on the rise after the ‘post-vaccine�
 <br>
 
 <br>
-CHECK IT OUT ON **COFFEE & SUGAR** SALES PATTERN
+
+**COFFEE & SUGAR** Sales Pattern
+
 <br>
 
 <br>
@@ -89,7 +91,9 @@ CHECK IT OUT ON **COFFEE & SUGAR** SALES PATTERN
 <br>
 
 <br>
-CHECK IT OUT ON **FRUITS** SALES PATTERN
+
+**FRUITS** Sales Pattern
+
 <br>
 
 <br>
