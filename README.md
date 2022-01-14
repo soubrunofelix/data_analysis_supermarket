@@ -75,11 +75,7 @@ When we speak about our clients stocking food, we view the peak and record of sa
 Even though the prices of these foods are on the rise after the ‘post-vaccine’ period, the demand for them is still high. We can tell that these are products of need from the eyes of the consumers.
 <br>
 
-<br>
-
 **COFFEE & SUGAR** Sales Pattern
-
-<br>
 
 <br>
 
@@ -87,11 +83,7 @@ Even though the prices of these foods are on the rise after the ‘post-vaccine�
 
 <br>
 
-<br>
-
 **FRUITS** Sales Pattern
-
-<br>
 
 <br>
 
