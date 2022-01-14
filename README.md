@@ -33,7 +33,6 @@ So, grab a trolley and come with me through the aisles of this supermarket.
 - Gathering and Cleaning data in order to devolop a modern **Business Intelligence Strategy** for the supermarket:
 - Discovering **consumers patterns** over the scenarios;
 - Understanding **prices patterns** over the scenarios;
-- Evaluation of prices increasing;
 - Having knowledge of **revenue status**;
 - Which changes in consumer behaviour can **create opportunities in 2022**?
 
