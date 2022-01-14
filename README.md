@@ -37,8 +37,12 @@ So, grab a trolley 🛒 and come with me through the aisles of this supermarket.
 - Having knowledge of **revenue status**;
 
 <br>
+
 ![Story 2](https://user-images.githubusercontent.com/59744673/149568020-063a84d4-addc-4ffe-b0f6-4bf0cb2f5aae.png)
+
 <br>
+
+ALSO
 
 <br>
 ![Story 3](https://user-images.githubusercontent.com/59744673/149568168-bc76d675-8c21-4adb-9e77-43f35d4cb65e.png)
@@ -48,7 +52,6 @@ So, grab a trolley 🛒 and come with me through the aisles of this supermarket.
 
 After the extraction from the dataset and data cleaning, it is possible to acknowledge the top selling products along the period observed. Following this stage, we began the process of analysis, comparison to the market and monitoring of the information obtained.
 <br>
-<br>
 When the pandemic broke out in Brazil, in March 2020, there were dramatic changes in most of brazilians’ **shopping behaviour**.
 <br>
 You must have seen at least one piece of news about **out-of-stock** products on supermarket shelves around the world, and after the first round of analysis I realized that the local supermarket was no different, and based on it a **consumer pattern** was discovered, so-called by me, as **traditional brazilian family** behaviour.
@@ -56,24 +59,41 @@ You must have seen at least one piece of news about **out-of-stock** products on
 And this data is telling us what kind of products the traditional brazilian Family considers to be **fundamental** for its survival in times of a global pandemic, so let’s take a deeper look into this list of foods that are musts at brazilians’ table:
 <br>
 	>>> Rice and beans, both keep similar sales behaviour over the years.
-<br>	
-![Story 4](https://user-images.githubusercontent.com/59744673/149568317-c6fa38be-cfc9-4d18-a56f-1dd7aca9f1d1.png)
 <br>
 
 <br>
+
+![Story 4](https://user-images.githubusercontent.com/59744673/149568317-c6fa38be-cfc9-4d18-a56f-1dd7aca9f1d1.png)
+
+<br>
+
+<br>
+
 You might be asking yourself: why are these two considered essentials?
 <br>
 When we speak about our clients stocking food, we view the peak and record of sales of these foods at the beginning of the pandemic, as well as coffee, sugar, and also fruits.
 <br>
 Even though the prices of these foods are on the rise after the ‘post-vaccine’ period, the demand for them is still high. We can tell that these are products of need from the eyes of the consumers.
 <br>
+
+<br>
 CHECK IT OUT ON **COFFEE & SUGAR** SALES PATTERN
 <br>
+
+<br>
+
 ![Story 4 1](https://user-images.githubusercontent.com/59744673/149568649-306c5ce3-94a8-40b3-83b1-3f84cb29f67d.png)
+
+<br>
+
 <br>
 CHECK IT OUT ON **FRUITS** SALES PATTERN
 <br>
+
+<br>
+
 ![Story 5](https://user-images.githubusercontent.com/59744673/149568755-de158e47-0885-4f8a-9ec0-8424653f963c.png)
+
 <br>
 
 
