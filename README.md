@@ -8,7 +8,7 @@
 
 <br>
 
-XXXXXXXXX IMAGE TITLE XXXXXXXXX
+![Story 1](https://user-images.githubusercontent.com/59744673/149566242-09be6673-6217-4b11-9a3d-2caeac3f6aee.png)
 
 <br>
 
