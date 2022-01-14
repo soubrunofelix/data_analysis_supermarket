@@ -45,7 +45,9 @@ So, grab a trolley 🛒 and come with me through the aisles of this supermarket.
 ALSO
 
 <br>
+
 ![Story 3](https://user-images.githubusercontent.com/59744673/149568168-bc76d675-8c21-4adb-9e77-43f35d4cb65e.png)
+
 <br>
 
 ## Diving into the Analysis
@@ -58,7 +60,7 @@ You must have seen at least one piece of news about **out-of-stock** products on
 <br>
 And this data is telling us what kind of products the traditional brazilian Family considers to be **fundamental** for its survival in times of a global pandemic, so let’s take a deeper look into this list of foods that are musts at brazilians’ table:
 <br>
-	>>> Rice and beans, both keep similar sales behaviour over the years.
+	>>> **Rice and Beans**, both keep similar sales behaviour over the years.
 <br>
 
 <br>
