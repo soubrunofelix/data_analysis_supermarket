@@ -61,13 +61,10 @@ You must have seen at least one piece of news about **out-of-stock** products on
 And this data is telling us what kind of products the traditional brazilian Family considers to be **fundamental** for its survival in times of a global pandemic, so let’s take a deeper look into this list of foods that are musts at brazilians’ table:
 <br>
 	>>> **Rice and Beans**, both keep similar sales behaviour over the years.
-<br>
 
 <br>
 
 ![Story 4](https://user-images.githubusercontent.com/59744673/149568317-c6fa38be-cfc9-4d18-a56f-1dd7aca9f1d1.png)
-
-<br>
 
 <br>
 
