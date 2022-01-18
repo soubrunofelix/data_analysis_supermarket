@@ -123,7 +123,7 @@ There has also been a decrease in the consume of alcoholic beverage given the fa
 <br>
 Although these goods had prices above average when compared to previous years, they still presented record sales in 2021.
 <br>
-The data therefore shows us that peak and fluctuation of prices **reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income**.
+The data therefore shows us that peak and fluctuation of prices **reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income.**
 <br>
 
 <br>
