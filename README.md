@@ -110,7 +110,7 @@ Even though the prices of these foods are on the rise after the ‘post-vaccine�
 
 <br>
 
-There has also been a decrease in the consume of alcoholic beverage given the fact that people are switching their lifestyle into a healthier one, resulting in a **growing demand for fruits and natural products**.
+There has also been a decrease in the consume of alcoholic beverage given the fact that people are switching their lifestyle into a healthier one, resulting in a **growing demand for natural products as well**.
 
 <br>
 
@@ -123,5 +123,5 @@ There has also been a decrease in the consume of alcoholic beverage given the fa
 <br>
 Although these goods had prices above average when compared to previous years, they still presented record sales in 2021.
 <br>
-The data therefore shows us that peak and fluctuation of prices reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income.
+The data therefore shows us that peak and fluctuation of prices **reflect directly on consumer’s behavior and lifestyle**, **hence impacting on supermarkets sales and income**.
 
