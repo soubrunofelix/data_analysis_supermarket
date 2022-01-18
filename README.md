@@ -94,7 +94,34 @@ Even though the prices of these foods are on the rise after the ‘post-vaccine�
 
 <br>
 
-Pork, chicken and bovine meat had a decrease in sales amount, which can be explained by the constant price hike these products have been facing. There has also been a decrease in the consume of alcoholic beverage given the fact that people are switching their lifestyle into a healthier one, resulting in a growing demand for fruits and natural products. 
-	Although these goods had prices above average when compared to previous years, they still presented record sales in 2021. 
-	The data therefore shows us that peak and fluctuation of prices reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income.
+**Pork, chicken and bovine meat** had a **decrease in sales amount**, which can be explained by the constant price hike these products have been facing.
+
+<br>
+
+![Story 9](https://user-images.githubusercontent.com/59744673/149956404-822651bb-e309-4122-ad67-17374e534e62.png)
+
+<br>
+
+![Story 7](https://user-images.githubusercontent.com/59744673/149956544-cd72180a-6c60-4f4f-ade3-68aca6621bbf.png)
+
+<br>
+
+![Story 8](https://user-images.githubusercontent.com/59744673/149956689-3d6741d9-1f96-41da-ba7a-298c03a74af5.png)
+
+<br>
+
+There has also been a decrease in the consume of alcoholic beverage given the fact that people are switching their lifestyle into a healthier one, resulting in a **growing demand for fruits and natural products**.
+
+<br>
+
+**NATURAL GOODS** Sales Pattern
+
+<br>
+
+![Story 6](https://user-images.githubusercontent.com/59744673/149952769-96c46e34-2e2e-4529-90df-4ec21bcfc97b.png)
+
+<br>
+Although these goods had prices above average when compared to previous years, they still presented record sales in 2021.
+<br>
+The data therefore shows us that peak and fluctuation of prices reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income.
 
