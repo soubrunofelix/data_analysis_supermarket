@@ -50,7 +50,7 @@ also
 
 <br>
 
-## Diving into the Analysis
+## Hypothesis - Diving into the Analysis
 
 After the extraction from the dataset and data cleaning, it is possible to acknowledge the top selling products along the period observed. Following this stage, we began the process of analysis, comparison to the market and monitoring of the information obtained.
 <br>
@@ -94,5 +94,7 @@ Even though the prices of these foods are on the rise after the ‘post-vaccine�
 
 <br>
 
-
+Pork, chicken and bovine meat had a decrease in sales amount, which can be explained by the constant price hike these products have been facing. There has also been a decrease in the consume of alcoholic beverage given the fact that people are switching their lifestyle into a healthier one, resulting in a growing demand for fruits and natural products. 
+	Although these goods had prices above average when compared to previous years, they still presented record sales in 2021. 
+	The data therefore shows us that peak and fluctuation of prices reflect directly on consumer’s behavior and lifestyle, hence impacting on supermarkets sales and income.
 
